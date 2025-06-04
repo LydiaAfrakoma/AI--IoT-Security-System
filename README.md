@@ -1,0 +1,1 @@
+The dataset, IoT-23 which is a labeled dataset with malicious and benign IoT network traffic  from Internet of Things (IoT) devices, was used in training and testing a model to make predictions on whether a traffic network is malicious or benign . Decison Tree, a supervised machine learning algorithm used for classification
